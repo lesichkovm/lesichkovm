@@ -119,3 +119,24 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="Windows 10" title="Windows 10" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" />
 <img alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Ubuntu" title="Ubuntu" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  
+</details>
+  
+  
+<details>
+  <summary>MY STATS</summary>  
+
+  *Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more stats*
+  
+  <img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
+  
+  <img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
+
+  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2029%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
+</details>
+
