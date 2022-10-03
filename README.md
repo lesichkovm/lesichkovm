@@ -125,18 +125,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 <details>
   <summary>MY STATS</summary>  
-
-  *Check out [my wakatime profile](https://wakatime.com/@lesichkovm) to see more stats*
   
   <img align="left" width="100%" alt="lesichkovm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lesichkovm&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
   
   <img align="left" width="100%" alt="lesichkovm's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=lesichkovm&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
-
-  <!--START_SECTION:waka-->
+<!-- 
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue) 
+-->
 </details>
 
