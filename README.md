@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Milan 👋
 
 <!--
 **lesichkovm/lesichkovm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **ABOUT ME**
 
-I'm a Software Developer, IT Consultant and Constantly Learning!
+I'm a Software Developer, Dev Lead, IT Consultant and Still Learning!
 - 🌱 I’m currently learning Blazor, MAUI and Electron.
 - 🥅 2022 Goals: 
   - [ ] 🎮 Write more tests for my Golang libraries and packages
@@ -28,66 +28,79 @@ I'm a Software Developer, IT Consultant and Constantly Learning!
 - ⚡ Fun fact: I love to walk in the countryside with my dog
 - 📫 How to reach me: use my website
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
   <summary>MY SKILLS </summary>
-
-<div align="center"><i>Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)</i><div/>
-
-<div align="center"><b>Languages</b><div/>
-  <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java
   
-  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
-
-  <img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />C#
+  <div align="center"><i>Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)</i></div>
   
-<img alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash
-<img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5
+  <div align="center"><b>Languages</b></div>
   
-<img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
+  <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
-<img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3
+  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   
-<img alt="Golang" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" /> Golang
-
-<div align="center"><b>Frameworks and Libraries</b><div/>
-
-<img alt=".NET" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
-<img alt="Vue" title="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img alt="Discord.js" title="Discord.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-<img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
-
-<div align="center"><b>Databases</b><div/>
-
-<img alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
-<img alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
-<img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-<div align="center"><b>IDE's and Code Editors</b><div/>
-
-<img alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="Android Studio" title="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
-<img alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
-<img alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
-<img alt="Netbeans" title="Netbeans" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img alt="Visual Studio" title="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-<div align="center"><b>Tools</b><div/>
-
-<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
-  <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</picture> GitHub
+  <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+  <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
+  <img alt="Golang" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" />
+  
+  <div align="center"><b>Frameworks and Libraries</b></div>
+  
+  <img alt=".NET" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
+  
+  <img alt="Vue" title="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  
+  <img alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  
+  <img alt="Discord.js" title="Discord.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+  
+  <img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
+
+  <div align="center"><b>Databases</b></div>
+  
+  <img alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
+  <img alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
+  <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+  <div align="center"><b>IDE's and Code Editors</b></div>
+  
+  <img alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  <img alt="Android Studio" title="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  
+  <img alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
+  
+  <img alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
+  
+  <img alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
+  
+  <img alt="Netbeans" title="Netbeans" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+  
+  <img alt="Visual Studio" title="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
+  <div align="center"><b>Tools</b></div>
+  
+  <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
+    <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  </picture>
 
   <img alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> GitLab
 
@@ -122,6 +135,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 </details>
   
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
   
 <details>
   <summary>MY STATS</summary>  
