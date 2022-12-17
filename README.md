@@ -1,3 +1,9 @@
+
+![Metrics](https://metrics.lecoq.io/lesichkovm?template=classic&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true&config.display=columns)
+
+<img src="https://metrics.lecoq.io/lesichkovm?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon" />
+
+
 ### Hi there, I am Milan 👋
 
 <!--
@@ -130,8 +136,3 @@ I'm a Software Developer, Dev Lead, IT Consultant and Still Learning!
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue) 
 -->
 </details>
-
-![Metrics](https://metrics.lecoq.io/lesichkovm?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
-
-![Metrics](https://metrics.lecoq.io/lesichkovm?template=classic&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true&config.display=columns)
-
