@@ -1,7 +1,4 @@
-
-![Metrics](https://metrics.lecoq.io/lesichkovm?template=classic&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true&config.display=columns)
-
-<img src="https://metrics.lecoq.io/lesichkovm?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon" />
+<img src="https://metrics.lecoq.io/lesichkovm?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon&config.display=wide" />
 
 
 ### Hi there, I am Milan 👋
