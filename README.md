@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a Software Developer, Dev Lead, Solutions Architect, Automation Specialist, IT Consultant and Still Learning!
 - 🌱 I’m currently learning Blazor, MAUI and Electron.
 - 🥅 2022 Goals: 
-  - [] 🎮 Write more tests for my Golang libraries and packages
+  - [ ] 🎮 Write more tests for my Golang libraries and packages
   - [x] 💻 Become more proficient with Golang, C#, Blazor, WebAssembly, React and Typescript
   - [x] 🛸 Contribute more to Open Source projects
   - [x] 📄 Pass Exam AI-900: Microsoft Azure AI Fundamentals
