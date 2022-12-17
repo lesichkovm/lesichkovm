@@ -1,7 +1,4 @@
-<img src="https://metrics.lecoq.io/lesichkovm?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon&config.display=wide" />
-
-
-### Hi there, I am Milan 👋
+### Hi there, its Milan here 👋
 
 <!--
 **lesichkovm/lesichkovm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +17,11 @@ Here are some ideas to get you started:
 
 **ABOUT ME**
 
-I'm a Software Developer, Dev Lead, IT Consultant and Still Learning!
+I'm a Software Developer, Dev Lead, Solutions Architect, Automation Specialist, IT Consultant and Still Learning!
 - 🌱 I’m currently learning Blazor, MAUI and Electron.
 - 🥅 2022 Goals: 
-  - [ ] 🎮 Write more tests for my Golang libraries and packages
-  - [ ] 💻 Become more proficient with Golang, C#, Blazor, WebAssembly, React and Typescript
+  - [-] 🎮 Write more tests for my Golang libraries and packages
+  - [x] 💻 Become more proficient with Golang, C#, Blazor, WebAssembly, React and Typescript
   - [x] 🛸 Contribute more to Open Source projects
   - [x] 📄 Pass Exam AI-900: Microsoft Azure AI Fundamentals
   - [x] 📄 Pass Exam PL-900: Microsoft Power Platform Fundamentals
