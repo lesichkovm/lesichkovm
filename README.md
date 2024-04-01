@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 I'm a Software Developer, Dev Lead, Solutions Architect, Automation Specialist, IT Consultant and Still Learning!
 - 🌱 I’m currently learning AI, HTMX, Blazor, MAUI and Electron.
-- - 🥅 2023 Goals: 
-  - [] 🎮 Explore latest AI capabilities
+- 🥅 2024 Goals:
+  - [] Explore ML and trends 
+- 🥅 2023 Goals:
+  - [x] 🎮 Explore latest AI capabilities
   - [x] 🛸 Contribute more to Open Source projects
   - [x] 💻 Become more proficient with HTMX
   - [x] 📄 Learn Svelte & TailwindCSS
